@@ -1,0 +1,3 @@
+countries_eubucco = ['austria','belgium','bulgaria','croatia','cyprus','czechia','denmark','estonia','finland','france','germany','greece','hungary','ireland','italy','latvia','lithuania','luxembourg','malta','netherlands','norway','poland','portugal','romania','slovakia','slovenia','spain','sweden','switzerland','uk']
+
+countries_msft = ['austria','belgium','bulgaria','croatia','cyprus','czechia','denmark','estonia','finland','france','germany','greece','hungary','ireland','italy','latvia','lithuania','luxembourg','malta','netherlands','poland','portugal','romania','slovakia','slovenia','spain','sweden','switzerland']
