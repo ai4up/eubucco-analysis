@@ -26,4 +26,5 @@
 ## Maps
 ## Outliers
 ## Known issues
+- Certain buildings that should have an empty inside courtyard are represented as a full polygon, thus overestimating the footprint area.
 ## Recommendations
