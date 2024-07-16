@@ -9,6 +9,12 @@
 
 
 ## Statistics
+
+### City-level difference EUBUCCO/MSFT 
+ ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/romania_city_diff.png)
+
+## Regional breakdown
 ## Maps
 ## Outliers
 ## Known issues
+## Recommendations
