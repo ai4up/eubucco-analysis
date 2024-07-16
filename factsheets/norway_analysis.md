@@ -1,11 +1,11 @@
 
-# Poland
+# Norway
 ## Available data EUBUCCO / MSFT
 
 | Dimension    | EUBUCCO v0.1 | MSFT | Ratio |
 | -------- | ------- | ------- | ------- |
-|Total Footprint Area|2,099,046,447|2,647,979,933|79%|
-|Total Footprint Number|14,404,767|17,882,382|81%|
+|Total Footprint Area|0|428,430,176|0%|
+|Total Footprint Number|0|3,712,473|0%|
 
 
 ## Statistics
