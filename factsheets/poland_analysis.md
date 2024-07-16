@@ -14,6 +14,26 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/poland_city_diff.png)
 
 ## Regional breakdown
+
+| Region              |   Diff. MSFT/v0.1 |
+|:--------------------|------------------:|
+| Dolnośląskie        |              0.24 |
+| Kujawsko-Pomorskie  |              0.23 |
+| Lubelskie           |              0.23 |
+| Lubuskie            |              0.24 |
+| Mazowieckie         |              0.3  |
+| Małopolskie         |              0.36 |
+| Opolskie            |              0.21 |
+| Podkarpackie        |              0.44 |
+| Podlaskie           |              0.21 |
+| Pomorskie           |              0.28 |
+| Warmińsko-Mazurskie |              0.26 |
+| Wielkopolskie       |              0.13 |
+| Zachodniopomorskie  |              0.24 |
+| Łódzkie             |              0.23 |
+| Śląskie             |              0.27 |
+| Świętokrzyskie      |              0.31 |
+
 ## Maps
 ## Outliers
 ## Known issues

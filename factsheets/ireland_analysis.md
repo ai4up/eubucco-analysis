@@ -14,6 +14,11 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/ireland_city_diff.png)
 
 ## Regional breakdown
+
+| Region   |   Diff. MSFT/v0.1 |
+|:---------|------------------:|
+| ireland  |              0.47 |
+
 ## Maps
 ## Outliers
 ## Known issues

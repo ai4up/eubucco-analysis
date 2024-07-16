@@ -14,6 +14,15 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/finland_city_diff.png)
 
 ## Regional breakdown
+
+| Region           |   Diff. MSFT/v0.1 |
+|:-----------------|------------------:|
+| Eastern Finland  |             -0.34 |
+| Lapland          |             -0.42 |
+| Oulu             |             -0.24 |
+| Southern Finland |             -0.03 |
+| Western Finland  |             -0.13 |
+
 ## Maps
 ## Outliers
 ## Known issues

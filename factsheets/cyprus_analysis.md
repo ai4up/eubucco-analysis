@@ -14,6 +14,11 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/cyprus_city_diff.png)
 
 ## Regional breakdown
+
+| Region   |   Diff. MSFT/v0.1 |
+|:---------|------------------:|
+| cyprus   |              0.22 |
+
 ## Maps
 ## Outliers
 ## Known issues

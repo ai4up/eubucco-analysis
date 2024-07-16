@@ -14,6 +14,15 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/latvia_city_diff.png)
 
 ## Regional breakdown
+
+| Region   |   Diff. MSFT/v0.1 |
+|:---------|------------------:|
+| Kurzeme  |              0.02 |
+| Latgale  |              1.04 |
+| Riga     |              0.17 |
+| Vidzeme  |              0.15 |
+| Zemgale  |              0.79 |
+
 ## Maps
 ## Outliers
 ## Known issues

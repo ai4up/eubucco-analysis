@@ -14,6 +14,13 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/belgium_city_diff.png)
 
 ## Regional breakdown
+
+| Region     |   Diff. MSFT/v0.1 |
+|:-----------|------------------:|
+| Bruxelles  |             -0.09 |
+| Vlaanderen |             -0.13 |
+| Wallonie   |              0.13 |
+
 ## Maps
 ## Outliers
 ## Known issues

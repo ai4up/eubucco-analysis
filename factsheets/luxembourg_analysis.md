@@ -14,6 +14,13 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/luxembourg_city_diff.png)
 
 ## Regional breakdown
+
+| Region       |   Diff. MSFT/v0.1 |
+|:-------------|------------------:|
+| Diekirch     |              0.09 |
+| Grevenmacher |              0.11 |
+| Luxembourg   |              0.06 |
+
 ## Maps
 ## Outliers
 ## Known issues

@@ -14,6 +14,15 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/malta_city_diff.png)
 
 ## Regional breakdown
+
+| Region     |   Diff. MSFT/v0.1 |
+|:-----------|------------------:|
+| Għawdex    |             -0.2  |
+| Nofsinhar  |             -0.09 |
+| Tramuntana |             -0.09 |
+| Xlokk      |             -0.14 |
+| Ċentrali   |             -0.04 |
+
 ## Maps
 ## Outliers
 ## Known issues

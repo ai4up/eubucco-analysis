@@ -14,6 +14,28 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/spain_city_diff.png)
 
 ## Regional breakdown
+
+| Region                     |   Diff. MSFT/v0.1 |
+|:---------------------------|------------------:|
+| Andalucía                  |             -0.8  |
+| Aragón                     |             -0.68 |
+| Cantabria                  |             -0.54 |
+| Castilla y León            |             -0.65 |
+| Castilla-La Mancha         |             -0.35 |
+| Cataluña                   |             -0.45 |
+| Ceuta y Melilla            |             -0.02 |
+| Comunidad Foral de Navarra |            inf    |
+| Comunidad Valenciana       |             -0.9  |
+| Comunidad de Madrid        |             -0.64 |
+| Extremadura                |             -0.84 |
+| Galicia                    |             -0.12 |
+| Islas Baleares             |             -0.09 |
+| Islas Canarias             |             -0.6  |
+| La Rioja                   |             -0.55 |
+| País Vasco                 |            inf    |
+| Principado de Asturias     |              0.34 |
+| Región de Murcia           |             -0.36 |
+
 ## Maps
 ## Outliers
 ## Known issues

@@ -14,6 +14,22 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/netherlands_city_diff.png)
 
 ## Regional breakdown
+
+| Region        |   Diff. MSFT/v0.1 |
+|:--------------|------------------:|
+| Drenthe       |             -0.19 |
+| Flevoland     |             -0.6  |
+| Friesland     |              0.04 |
+| Gelderland    |             -0.11 |
+| Groningen     |              0.03 |
+| Limburg       |             -0.03 |
+| Noord-Brabant |             -0.07 |
+| Noord-Holland |             -0.27 |
+| Overijssel    |             -0.38 |
+| Utrecht       |             -0.48 |
+| Zeeland       |             -0.3  |
+| Zuid-Holland  |             -0.64 |
+
 ## Maps
 ## Outliers
 ## Known issues

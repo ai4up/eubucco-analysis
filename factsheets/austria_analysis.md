@@ -14,6 +14,19 @@
  ![City-level difference EUBUCCO/MSFT](../imgs/city_diff/austria_city_diff.png)
 
 ## Regional breakdown
+
+| Region           |   Diff. MSFT/v0.1 |
+|:-----------------|------------------:|
+| Burgenland       |              0.05 |
+| Kärnten          |             -0.02 |
+| Niederösterreich |              0.08 |
+| Oberösterreich   |              0.05 |
+| Salzburg         |              0.03 |
+| Steiermark       |             -0.07 |
+| Tirol            |             -0.07 |
+| Vorarlberg       |              0.05 |
+| Wien             |              0.1  |
+
 ## Maps
 ## Outliers
 ## Known issues
