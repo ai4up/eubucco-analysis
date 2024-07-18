@@ -26,5 +26,19 @@
 ## Maps
 ## Outliers
 ## Known issues
+
+### Issue (replace) 
+
+#### Description
+
+#### Possible cause
+
+#### Significance 
+
+#### Potential identification/cleaning strategy
+
+#### Number of occurences
+
+#### Example
 - Certain buildings that should have an empty inside courtyard are represented as a full polygon, thus overestimating the footprint area.
 ## Recommendations

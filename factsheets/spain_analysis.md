@@ -39,4 +39,48 @@
 ## Maps
 ## Outliers
 ## Known issues
+
+### Presence of land use polygons
+
+#### Description
+
+In a few cities across the whole countries, there are large polygons which are clearly not building but other land uses e.g. lake, district boundaries or airport.
+
+#### Possible cause
+
+Unclear, given that the data comes from the Spanish cadaster and supposed to contain only buildings.
+
+#### Significance 
+
+High. Potentially dramatically biases upwards footprint area.
+
+#### Potential identification/cleaning strategy
+
+Filter largest footprint areas beyond a threshold.
+
+#### Number of occurences
+
+Not yet analyzed.
+
+#### Example
+
+District polygon?            |  Lake polygon?
+:-------------------------:|:-------------------------:
+![district?](../imgs/issues/spain_polygon_district.jpeg)  |  ![lake?](../imgs/issues/spain_polygon_lake.jpeg)
+
+
+### Issue (replace) 
+
+#### Description
+
+#### Possible cause
+
+#### Significance 
+
+#### Potential identification/cleaning strategy
+
+#### Number of occurences
+
+#### Example
+
 ## Recommendations

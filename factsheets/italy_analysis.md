@@ -41,4 +41,18 @@
 ## Maps
 ## Outliers
 ## Known issues
+
+### Issue (replace) 
+
+#### Description
+
+#### Possible cause
+
+#### Significance 
+
+#### Potential identification/cleaning strategy
+
+#### Number of occurences
+
+#### Example
 ## Recommendations
