@@ -6,7 +6,7 @@ This repo aims to analyze EUBUCCO v0.1 to inform cleaning and downstream applica
 
 ### Automated systematic analysis of the entire stock
 
-One main feature is to create automated factsheets for every country. These enable us to have an overview of what is available in EUBUCCO, how it compares to [Microsoft ML Buildings](https://github.com/microsoft/GlobalMLBuildingFootprints), how reliable seems to be our data, where there seems to be issues, etc. The factsheets are currently built using EUBUCCO's [city-level overviews](/overviews) and are located [here](factsheets).
+One main feature is to create automated factsheets for every country. These enable us to have an overview of what is available in EUBUCCO, how it compares to [Microsoft ML Buildings](https://github.com/microsoft/GlobalMLBuildingFootprints), how reliable seems to be our data, where there seems to be issues, etc. The factsheets are currently built using EUBUCCO's [city-level overviews](/data) and are located [here](factsheets).
 
 ### Gathering qualitative insights from EUBUCCO users
 
